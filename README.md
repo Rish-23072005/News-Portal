@@ -1,4 +1,4 @@
-Website Link : https://euphonious-hotteok-b19557.netlify.app/ 
+Website Link : https://news-website-ln0araokg-rishabh-tripathis-projects-90b3dc20.vercel.app/
 
 
 
